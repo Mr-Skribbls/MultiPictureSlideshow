@@ -75,4 +75,5 @@ html, body {
     background-size: cover;
     background-position: center;
 }
-/* make a class for each image you would like to use (.bg2, .bg3, ...)*/
+/* make a class for each image you would like to use (.bg2, .bg3, ...)
+   You need to have at least 9 */
